@@ -9,7 +9,7 @@
             <div class="service-detail">
               <div class="inner-box">
                 <div class="image">
-                  <img src="images/service-img-big.jpg" alt />
+                  <img src="/images/service-img-big.jpg" alt />
                 </div>
                 <div class="lower-content">
                   <h2>Overview</h2>
@@ -27,7 +27,7 @@
                         <!-- Column -->
                         <div class="column col-lg-6 col-md-6 col-sm-12">
                           <div class="chart-image">
-                            <img src="images/computer-repair.png" alt />
+                            <img src="/images/computer-repair.png" alt />
                           </div>
                         </div>
                       </div>
@@ -118,7 +118,7 @@
                 <div class="sidebar-widget contact-widget">
                   <div
                     class="widget-content"
-                    style="background-image:url(images/background-pattern.png)"
+                    style="background-image:url(/images/background-pattern.png)"
                   >
                     <div class="icon flaticon-phone-call"></div>
                     <div class="text">

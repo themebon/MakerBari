@@ -35,13 +35,17 @@ export default {
     ],
 
     script: [
-      { src: "/js/jquery-min.js", type: "text/javascript" },
-      { src: "/js/jquery.magnific-popup.min.js", type: "text/javascript" },
-      { src: "/js/bootstrap.min.js", type: "text/javascript" },
-      { src: "/js/owl.carousel.min.js", type: "text/javascript" },
-      { src: "/js/appear.js", type: "text/javascript" },
-      { src: "/js/plugins.js", type: "text/javascript" },
-      { src: "/js/popper.min.js", type: "text/javascript" }
+      { src: "/js/jquery-min.js", type: "text/javascript", body: true },
+      {
+        src: "/js/jquery.magnific-popup.min.js",
+        type: "text/javascript",
+        body: true
+      },
+      { src: "/js/bootstrap.min.js", type: "text/javascript", body: true },
+      { src: "/js/owl.carousel.min.js", type: "text/javascript", body: true },
+      { src: "/js/appear.js", type: "text/javascript", body: true },
+      { src: "/js/plugins.js", type: "text/javascript", body: true },
+      { src: "/js/popper.min.js", type: "text/javascript", body: true }
     ]
   },
   /*
@@ -63,7 +67,11 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: ["@bazzite/nuxt-optimized-images"],
+  optimizedImages: {
+    optimizeImages: true
+  },
+
   /*
    ** Build configuration
    */

@@ -1,7 +1,7 @@
 <template>
   <div>
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/breadcrumb-bg.jpg)">
+    <section class="page-title" style="background-image:url(/images/breadcrumb-bg.jpg)">
       <div class="container">
         <div class="clearfix">
           <div class="float-left">

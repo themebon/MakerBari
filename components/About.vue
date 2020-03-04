@@ -42,7 +42,7 @@
           <div class="col-md-12 col-lg-6 mt-3 mt-lg-0">
             <div class="card border-0 shadow-sm text-white">
               <img
-                src="images/about-img.jpg"
+                src="/images/about-img.jpg"
                 alt="video"
                 class="img-fluid rounded shadow-sm"
                 data-popupalt-original-title="null"

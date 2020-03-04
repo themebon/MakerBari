@@ -11,7 +11,7 @@
           <div class="col-lg-3 col-sm-6">
             <!-- Single Team Start -->
             <div class="single-team">
-              <img src="images/our-team1.jpg" alt data-popupalt-original-title="null" title />
+              <img src="/images/our-team1.jpg" alt data-popupalt-original-title="null" title />
               <div class="team-content">
                 <h3>Job Title</h3>
                 <span>Designation</span>
@@ -43,7 +43,7 @@
           <div class="col-lg-3 col-sm-6">
             <!-- Single Team Start -->
             <div class="single-team">
-              <img src="images/our-team2.jpg" alt data-popupalt-original-title="null" title />
+              <img src="/images/our-team2.jpg" alt data-popupalt-original-title="null" title />
               <div class="team-content">
                 <h3>Job Title</h3>
                 <span>Designation</span>
@@ -75,7 +75,7 @@
           <div class="col-lg-3 col-sm-6">
             <!-- Single Team Start -->
             <div class="single-team">
-              <img src="images/our-team3.jpg" alt data-popupalt-original-title="null" title />
+              <img src="/images/our-team3.jpg" alt data-popupalt-original-title="null" title />
               <div class="team-content">
                 <h3>Job Title</h3>
                 <span>Designation</span>
@@ -107,7 +107,7 @@
           <div class="col-lg-3 col-sm-6">
             <!-- Single Team Start -->
             <div class="single-team">
-              <img src="images/our-team4.jpg" alt data-popupalt-original-title="null" title />
+              <img src="/images/our-team4.jpg" alt data-popupalt-original-title="null" title />
               <div class="team-content">
                 <h3>Job Title</h3>
                 <span>Designation</span>

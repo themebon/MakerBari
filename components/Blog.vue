@@ -13,7 +13,7 @@
             <!-- Single Blog Sec -->
             <div class="single-blog">
               <a href="blog-details.html">
-                <img src="images/blog-img1.jpg" alt />
+                <img src="/images/blog-img1.jpg" alt />
               </a>
               <div class="blog-content">
                 <a class="user" href="#">
@@ -41,7 +41,7 @@
             <!-- Single Blog Sec -->
             <div class="single-blog">
               <a href="blog-details.html">
-                <img src="images/blog-img2.jpg" alt />
+                <img src="/images/blog-img2.jpg" alt />
               </a>
               <div class="blog-content">
                 <a class="user" href="#">
@@ -69,7 +69,7 @@
             <!-- Single Blog Sec -->
             <div class="single-blog">
               <a href="blog-details.html">
-                <img src="images/blog-img3.jpg" alt />
+                <img src="/images/blog-img3.jpg" alt />
               </a>
               <div class="blog-content">
                 <a class="user" href="#">

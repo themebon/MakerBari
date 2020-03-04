@@ -3,7 +3,7 @@
     <!-- Site Slider Start -->
     <section class="slider-one">
       <div class="slider-one__carousel owl-carousel owl-theme">
-        <div class="item slider-one__slider-1" style="background-image: url(images/slider-1.jpg);">
+        <div class="item slider-one__slider-1" style="background-image: url(/images/slider-1.jpg);">
           <div class="container">
             <h2 class="slider-one__title">
               Repair your Computer
@@ -22,7 +22,7 @@
           <!-- /.container -->
         </div>
         <!-- /.item -->
-        <div class="item slider-one__slider-2" style="background-image: url(images/slider-2.jpg);">
+        <div class="item slider-one__slider-2" style="background-image: url(/images/slider-2.jpg);">
           <div class="container">
             <h2 class="slider-one__title">
               Repair your Computer
@@ -41,7 +41,7 @@
           <!-- /.container -->
         </div>
         <!-- /.item -->
-        <div class="item slider-one__slider-3" style="background-image: url(images/slider-3.jpg);">
+        <div class="item slider-one__slider-3" style="background-image: url(/images/slider-3.jpg);">
           <div class="container">
             <h2 class="slider-one__title">
               Repair your Computer

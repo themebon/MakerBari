@@ -2,7 +2,7 @@
   <div>
     <!-- Testimonials Section -->
     <section class="testimonial-section">
-      <div class="patern-layer" style="background-image: url(images/pattern-bg.png)"></div>
+      <div class="patern-layer" style="background-image: url(/images/pattern-bg.png)"></div>
       <div class="container">
         <!-- Sec Title -->
         <div class="section-title">
@@ -16,7 +16,7 @@
             <div class="client-thumbs-carousel owl-carousel owl-theme">
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-1.jpg" alt />
+                  <img src="/images/author-1.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">JAMES HANSON</div>
@@ -25,7 +25,7 @@
               </div>
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-2.jpg" alt />
+                  <img src="/images/author-2.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">ROBERT PATTINSON</div>
@@ -34,7 +34,7 @@
               </div>
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-3.jpg" alt />
+                  <img src="/images/author-3.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">CROWNA BATTION</div>
@@ -43,7 +43,7 @@
               </div>
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-1.jpg" alt />
+                  <img src="/images/author-1.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">JAMES HANSON</div>
@@ -52,7 +52,7 @@
               </div>
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-2.jpg" alt />
+                  <img src="/images/author-2.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">ROBERT PATTINSON</div>
@@ -61,7 +61,7 @@
               </div>
               <div class="thumb-item">
                 <figure class="thumb-box">
-                  <img src="images/author-3.jpg" alt />
+                  <img src="/images/author-3.jpg" alt />
                 </figure>
                 <div class="author-info">
                   <div class="author-name">CROWNA BATTION</div>

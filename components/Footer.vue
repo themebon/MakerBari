@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Main Footer -->
-    <footer class="main-footer" style="background-image: url(images/footer-bg.jpg)">
+    <footer class="main-footer" style="background-image: url(/images/footer-bg.jpg)">
       <div class="container">
         <!--Widgets Section-->
         <div class="widgets-section">
@@ -11,7 +11,7 @@
               <div class="footer-widget logo-widget">
                 <div class="logo">
                   <a href="index.html">
-                    <img src="images/logo.png" alt />
+                    <img src="/images/logo.png" alt />
                   </a>
                 </div>
                 <div
@@ -39,7 +39,7 @@
                   <div class="post">
                     <div class="thumb">
                       <a href="blog-details.html">
-                        <img src="images/post-thumb-1.jpg" alt />
+                        <img src="/images/post-thumb-1.jpg" alt />
                       </a>
                     </div>
                     <h5>
@@ -50,7 +50,7 @@
                   <div class="post">
                     <div class="thumb">
                       <a href="blog-details.html">
-                        <img src="images/post-thumb-2.jpg" alt />
+                        <img src="/images/post-thumb-2.jpg" alt />
                       </a>
                     </div>
                     <h5>

@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Counter Section -->
-    <section class="counter-section" style="background-image: url(images/counter_bg.jpg)">
+    <section class="counter-section" style="background-image: url(/images/counter_bg.jpg)">
       <div class="container">
         <!-- Sec Title -->
         <div class="section-title">

@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
             <div class="blog-details">
-              <img src="images/service-img-big.jpg" alt />
+              <img src="/images/service-img-big.jpg" alt />
               <div class="blog-meta">
                 <span>
                   <a href="#">
@@ -82,7 +82,7 @@
               <h3>04 Comments</h3>
               <div class="blog-comments">
                 <div class="author-thumb">
-                  <img src="images/author-1.jpg" alt />
+                  <img src="/images/author-1.jpg" alt />
                 </div>
                 <div class="author-comments">
                   <div class="author-details">
@@ -99,7 +99,7 @@
               </div>
               <div class="blog-comments">
                 <div class="author-thumb">
-                  <img src="images/author-2.jpg" alt />
+                  <img src="/images/author-2.jpg" alt />
                 </div>
                 <div class="author-comments">
                   <div class="author-details">
@@ -118,7 +118,7 @@
             <div class="blog-all-comments mb-60">
               <div class="blog-comments">
                 <div class="author-thumb">
-                  <img src="images/author-3.jpg" alt />
+                  <img src="/images/author-3.jpg" alt />
                 </div>
                 <div class="author-comments">
                   <div class="author-details">
@@ -135,7 +135,7 @@
               </div>
               <div class="blog-comments">
                 <div class="author-thumb">
-                  <img src="images/author-2.jpg" alt />
+                  <img src="/images/author-2.jpg" alt />
                 </div>
                 <div class="author-comments">
                   <div class="author-details">
