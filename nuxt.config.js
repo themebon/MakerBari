@@ -23,15 +23,15 @@ export default {
           "https://fonts.googleapis.com/css?family=Muli:400,500,700,800|Lato:300,400,700,900"
       },
 
-      { rel: "stylesheet", href: "css/bootstrap.min.css" },
-      { rel: "stylesheet", href: "css/fontawesome.min.css" },
-      { rel: "stylesheet", href: "css/font-awesome.min.css" },
-      { rel: "stylesheet", href: "css/magnific-popup.css" },
-      { rel: "stylesheet", href: "css/animate.min.css" },
-      { rel: "stylesheet", href: "css/mobiriseicons.css" },
-      { rel: "stylesheet", href: "css/owl.carousel.min.css" },
-      { rel: "stylesheet", href: "css/themify-icons.css" },
-      { rel: "stylesheet", href: "css/style.css" }
+      { rel: "stylesheet", href: "/css/bootstrap.min.css" },
+      { rel: "stylesheet", href: "/css/fontawesome.min.css" },
+      { rel: "stylesheet", href: "/css/font-awesome.min.css" },
+      { rel: "stylesheet", href: "/css/magnific-popup.css" },
+      { rel: "stylesheet", href: "/css/animate.min.css" },
+      { rel: "stylesheet", href: "/css/mobiriseicons.css" },
+      { rel: "stylesheet", href: "/css/owl.carousel.min.css" },
+      { rel: "stylesheet", href: "/css/themify-icons.css" },
+      { rel: "stylesheet", href: "/css/style.css" }
     ],
 
     script: [
