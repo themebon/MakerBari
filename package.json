@@ -1,0 +1,17 @@
+{
+  "name": "makerbari",
+  "version": "1.0.0",
+  "description": "MakerBari - Vue Nuxt Computer and Electronics Repair Template",
+  "author": "codenpy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
