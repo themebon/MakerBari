@@ -3,10 +3,11 @@
     <!-- About Sec Start -->
     <section class="about-sec">
       <div class="container">
-        <div class="section-title">
+        <div class="section-title" v-if="sectionTitle==true">
           <span>What We Do</span>
           <h2>About Us</h2>
         </div>
+
         <div class="row justify-content-between align-items-center">
           <div class="col-md-12 col-lg-5">
             <div class="video-promo-content mb-md-4 mb-lg-0">
@@ -71,6 +72,12 @@
 <script>
 export default {
   name: "About",
+  props: {
+    sectionTitle: {
+      type: Boolean,
+      default: true
+    }
+  },
 
   mounted() {
     // Popup

@@ -12,26 +12,26 @@
           <div class="col-lg-4 col-md-6">
             <!-- Single Blog Sec -->
             <div class="single-blog">
-              <a href="blog-details.html">
+              <nuxt-link to="/blog-single">
                 <img src="/images/blog-img1.jpg" alt />
-              </a>
+              </nuxt-link>
               <div class="blog-content">
                 <a class="user" href="#">
                   <i class="bx bx-user"></i> Admin
                 </a>
                 <h3>
-                  <a href="blog-details.html">What is Lorem Ipsum?</a>
+                  <nuxt-link to="/blog-single">What is Lorem Ipsum?</nuxt-link>
                 </h3>
                 <ul>
                   <li>
-                    20 January 2020
+                    5 March 2020
                     <i class="bx bx-calendar"></i>
                   </li>
                   <li class="date">
-                    <a class="read-more" href="blog-details.html">
+                    <nuxt-link class="read-more" to="/blog-single">
                       View More
                       <i class="fas fa-arrow-right bx-fade-right"></i>
-                    </a>
+                    </nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -40,26 +40,26 @@
           <div class="col-lg-4 col-md-6">
             <!-- Single Blog Sec -->
             <div class="single-blog">
-              <a href="blog-details.html">
+              <nuxt-link to="/blog-single">
                 <img src="/images/blog-img2.jpg" alt />
-              </a>
+              </nuxt-link>
               <div class="blog-content">
                 <a class="user" href="#">
                   <i class="bx bx-user"></i> Admin
                 </a>
                 <h3>
-                  <a href="blog-details.html">Why do we use it?</a>
+                  <nuxt-link to="/blog-single">Why do we use it?</nuxt-link>
                 </h3>
                 <ul>
                   <li>
-                    20 January 2020
+                    5 March 2020
                     <i class="bx bx-calendar"></i>
                   </li>
                   <li class="date">
-                    <a class="read-more" href="blog-details.html">
+                    <nuxt-link class="read-more" to="/blog-single">
                       View More
                       <i class="fas fa-arrow-right bx-fade-right"></i>
-                    </a>
+                    </nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -68,26 +68,26 @@
           <div class="col-lg-4 col-md-6">
             <!-- Single Blog Sec -->
             <div class="single-blog">
-              <a href="blog-details.html">
+              <nuxt-link to="/blog-single">
                 <img src="/images/blog-img3.jpg" alt />
-              </a>
+              </nuxt-link>
               <div class="blog-content">
                 <a class="user" href="#">
                   <i class="bx bx-user"></i> Admin
                 </a>
                 <h3>
-                  <a href="blog-details.html">Where does it come from?</a>
+                  <nuxt-link to="/blog-single">Where does it come from?</nuxt-link>
                 </h3>
                 <ul>
                   <li>
-                    20 January 2020
+                    5 March 2020
                     <i class="bx bx-calendar"></i>
                   </li>
                   <li class="date">
-                    <a class="read-more" href="blog-details.html">
+                    <nuxt-link class="read-more" to="/blog-single">
                       View More
                       <i class="fas fa-arrow-right bx-fade-right"></i>
-                    </a>
+                    </nuxt-link>
                   </li>
                 </ul>
               </div>

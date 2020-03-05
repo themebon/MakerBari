@@ -1,7 +1,7 @@
 <template>
   <div>
     <PageTitle pageName="About Us" />
-    <About />
+    <About sectionTitle="false" />
     <Pricing />
     <Testimonial />
   </div>

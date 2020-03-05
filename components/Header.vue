@@ -24,9 +24,6 @@
         </div>
         <div class="topbar-one__right">
           <div class="topbar-one__links">
-            <a href="#" class="topbar-one__search search-popup__toggler">
-              <i class="fas fa-search"></i>
-            </a>
             <a href="#" class="topbar-one__link">
               <i class="far fa-clock"></i>Mon - Fri: 9.30 - 18.30
             </a>

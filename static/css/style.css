@@ -2905,7 +2905,6 @@ a.video-play-icon-without-bip:hover {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-attachment: fixed;
 }
 .page-title .auto-container {
   position: relative;

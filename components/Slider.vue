@@ -5,18 +5,15 @@
       <div class="slider-one__carousel owl-carousel owl-theme">
         <div class="item slider-one__slider-1" style="background-image: url(/images/slider-1.jpg);">
           <div class="container">
-            <h2 class="slider-one__title">
-              Repair your Computer
-              <br />laptop & iphone.
-            </h2>
+            <h2 class="slider-one__title">Any Computer Problems?</h2>
             <!-- /.slider-one__title -->
             <p
               class="slider-one__text"
             >Excepteur sint occaecat cupidatat non proident sunt in culpa qui</p>
-            <a href="contact-us.html" class="default-btn slider-one__text">
+            <nuxt-link class="default-btn slider-one__text" to="/contact">
               Contact Us
               <i class="fas fa-long-arrow-alt-right"></i>
-            </a>
+            </nuxt-link>
             <!-- /.slider-one__text -->
           </div>
           <!-- /.container -->
@@ -25,17 +22,17 @@
         <div class="item slider-one__slider-2" style="background-image: url(/images/slider-2.jpg);">
           <div class="container">
             <h2 class="slider-one__title">
-              Repair your Computer
-              <br />laptop & iphone.
+              Finding Solutions
+              <br />for your problems.
             </h2>
             <!-- /.slider-one__title -->
             <p
               class="slider-one__text"
             >Excepteur sint occaecat cupidatat non proident sunt in culpa qui</p>
-            <a href="contact-us.html" class="default-btn slider-one__text">
+            <nuxt-link class="default-btn slider-one__text" to="/contact">
               Contact Us
               <i class="fas fa-long-arrow-alt-right"></i>
-            </a>
+            </nuxt-link>
             <!-- /.slider-one__text -->
           </div>
           <!-- /.container -->
@@ -51,10 +48,10 @@
             <p
               class="slider-one__text"
             >Excepteur sint occaecat cupidatat non proident sunt in culpa qui</p>
-            <a href="contact-us.html" class="default-btn slider-one__text">
+            <nuxt-link class="default-btn slider-one__text" to="/contact">
               Contact Us
               <i class="fas fa-long-arrow-alt-right"></i>
-            </a>
+            </nuxt-link>
             <!-- /.slider-one__text -->
           </div>
           <!-- /.container -->

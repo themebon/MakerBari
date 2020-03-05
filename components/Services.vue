@@ -17,10 +17,10 @@
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum delectus illo rerum quidem! Nam maiores vel impedit quisquam.</p>
               </div>
               <div class="service-heading">
-                <a class="circle-read-more" href="service-details.html">
+                <nuxt-link class="circle-read-more" to="/service-detail">
                   <h3>Mobile Repair</h3>
-                  <i class="ti ti-angle-right"></i>
-                </a>
+                  <i class="ti-angle-right"></i>
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -49,10 +49,10 @@
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum delectus illo rerum quidem! Nam maiores vel impedit quisquam.</p>
               </div>
               <div class="service-heading">
-                <a class="circle-read-more" href="service-details.html">
+                <nuxt-link class="circle-read-more" to="/service-detail">
                   <h3>Television Repair</h3>
-                  <i class="ti ti-angle-right"></i>
-                </a>
+                  <i class="ti-angle-right"></i>
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -65,10 +65,10 @@
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum delectus illo rerum quidem! Nam maiores vel impedit quisquam.</p>
               </div>
               <div class="service-heading">
-                <a class="circle-read-more" href="service-details.html">
+                <nuxt-link class="circle-read-more" to="/service-detail">
                   <h3>Desktop Repair</h3>
-                  <i class="ti ti-angle-right"></i>
-                </a>
+                  <i class="ti-angle-right"></i>
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -81,10 +81,10 @@
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum delectus illo rerum quidem! Nam maiores vel impedit quisquam.</p>
               </div>
               <div class="service-heading">
-                <a class="circle-read-more" href="service-details.html">
+                <nuxt-link class="circle-read-more" to="/service-detail">
                   <h3>Tablet Repair</h3>
-                  <i class="ti ti-angle-right"></i>
-                </a>
+                  <i class="ti-angle-right"></i>
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -97,10 +97,10 @@
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum delectus illo rerum quidem! Nam maiores vel impedit quisquam.</p>
               </div>
               <div class="service-heading">
-                <a class="circle-read-more" href="service-details.html">
+                <nuxt-link class="circle-read-more" to="/service-detail">
                   <h3>Quality Support</h3>
-                  <i class="ti ti-angle-right"></i>
-                </a>
+                  <i class="ti-angle-right"></i>
+                </nuxt-link>
               </div>
             </div>
           </div>
