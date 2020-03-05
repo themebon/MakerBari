@@ -124,7 +124,7 @@
             <div class="col-lg-5">
               <div class="copyright">
                 &copy;
-                <span id="year"></span> Repairzone. Designed By sbtechnosoft
+                <span id="year"></span> MakerBari. Designed By codenpy
               </div>
             </div>
             <div class="col-lg-7 float-right">
